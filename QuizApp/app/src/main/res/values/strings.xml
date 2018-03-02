@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="previous">Previous</string>
+    <string name="next">next</string>
+    <string name="finish">Finish</string>
+    <string name="restart">Restart</string>
+    <string name="question_number">Quetion %d of %d</string>
+    <string name="default_question_text">this is just text to diplay on the question
+        TextView you won\'t see this if you are the user </string>
+    <string name="default_answer">this is one of the answers</string>
+
+    <string name="question1">Which of these operators can be used to concatenate two or more String objects? </string>
+    <string name="q1_answer1"> | </string>
+    <string name="q1_answer2"> * </string>
+    <string name="q1_answer3"> + </string>
+    <string name="q1_answer4"> # </string>
+
+    <string name="question2">Which of these java functions can change view text? </string>
+    <string name="q2_answer1"> changeText() </string>
+    <string name="q2_answer2"> append() </string>
+    <string name="q2_answer3"> format() </string>
+    <string name="q2_answer4"> setText() </string>
+
+    <string name="question3">Which java class is parent for all the classes? </string>
+    <string name="q3_answer1"> Exception </string>
+    <string name="q3_answer2"> Object </string>
+    <string name="q3_answer3"> Error </string>
+    <string name="q3_answer4"> String </string>
+
+
+    <string name="question4">Which of these is a name of sorting algorithm? </string>
+    <string name="q4_answer1"> merge </string>
+    <string name="q4_answer2"> breadth first </string>
+    <string name="q4_answer3"> interpolation </string>
+    <string name="q4_answer4"> binary </string>
+
+
+    <string name="question5">Which of these words is a reserved word in the Java?</string>
+    <string name="q5_answer1"> case </string>
+    <string name="q5_answer2"> create </string>
+    <string name="q5_answer3"> new </string>
+    <string name="q5_answer4"> start </string>
+
+    <string name="question6">Which of these is java build in function?</string>
+    <string name="q6_answer1"> print() </string>
+    <string name="q6_answer2"> exit() </string>
+    <string name="q6_answer3"> update() </string>
+    <string name="q6_answer4"> close() </string>
+
+    <string name="question7">what is the name of android view that is used to display images?</string>
+
+    <string name="question8">what is the name of android view that is used to display text</string>
+
+
+</resources>
